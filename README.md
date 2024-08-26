@@ -2,7 +2,7 @@
 
 ## About
 
-[BakeNest] is a mockup of an online store for cakes created purely with [Bootstrap](https://getbootstrap.com/).
+[BakeNest](https://4bdullah7eeshan.github.io/bakenest/) is a mockup of an online store for cakes created purely with [Bootstrap](https://getbootstrap.com/).
 
 ## Background
 
