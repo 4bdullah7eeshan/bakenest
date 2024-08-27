@@ -46,3 +46,22 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Quintessential', cursive;
 }
 */
+
+
+    @media (max-width: 576px) { /* Extra small screens (small phones) */
+        .img-responsive {
+            width: 90%; /* Full width with some padding */
+        }
+    }
+    
+    @media (min-width: 576px) and (max-width: 768px) { /* Small to medium screens (tablets) */
+        .img-responsive {
+            width: 50%; /* Half width on small screens */
+        }
+    }
+    
+    @media (min-width: 768px) { /* Medium screens and up (desktops) */
+        .img-responsive {
+            width: 22vw; /* As specified for large screens */
+        }
+    }
